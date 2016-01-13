@@ -1,0 +1,929 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"linking"
+			],
+			[
+				"__aodc_",
+				"__adoc_Function"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"func",
+				"funcMode"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"des",
+				"desc"
+			],
+			[
+				"prop",
+				"propName"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"de",
+				"dependencies"
+			],
+			[
+				"__adoc",
+				"__adoc_modules"
+			],
+			[
+				"module",
+				"moduleGroup"
+			],
+			[
+				"modu",
+				"moduleGroup"
+			],
+			[
+				"ret",
+				"retVal"
+			],
+			[
+				"requi",
+				"requires	@requires"
+			],
+			[
+				"mod",
+				"modules"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"c",
+				"class	@class"
+			],
+			[
+				"pa",
+				"param	@param"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"sto",
+				"storages"
+			],
+			[
+				"cos",
+				"consolidate"
+			],
+			[
+				"fi",
+				"fieldName"
+			],
+			[
+				"fiel",
+				"fieldNames"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"o",
+				"option	Tag"
+			],
+			[
+				"consol",
+				"console"
+			],
+			[
+				"admin",
+				"admin_table"
+			],
+			[
+				"table",
+				"tableList"
+			],
+			[
+				"ad",
+				"admin_table"
+			],
+			[
+				"s",
+				"storages"
+			],
+			[
+				"cr",
+				"createObjectStore"
+			],
+			[
+				"a",
+				"action_queue"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"get",
+				"getTableList"
+			],
+			[
+				"ac",
+				"action_queue"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pro",
+				"promise"
+			],
+			[
+				"border-",
+				"border-right"
+			],
+			[
+				"re",
+				"ready"
+			],
+			[
+				"inde",
+				"indexedDB"
+			],
+			[
+				"on",
+				"onsuccess"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"path",
+				"pathFragments"
+			],
+			[
+				"db",
+				"dbcreator"
+			],
+			[
+				"obj",
+				"objectStore"
+			],
+			[
+				"gui",
+				"guiWindows"
+			],
+			[
+				"scale",
+				"scaleX"
+			],
+			[
+				"sec",
+				"sectionWidth"
+			],
+			[
+				"se",
+				"sectionWidth"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"scal",
+				"scaleX"
+			],
+			[
+				"video",
+				"videoInfo"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"reque",
+				"requestAnimationFrame"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"mons",
+				"monsters"
+			],
+			[
+				"tile",
+				"tileMap"
+			],
+			[
+				"canvas",
+				"canvasCtx"
+			],
+			[
+				"dra",
+				"dragstart"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "generated/app/js/controllers/core.js",
+			"settings":
+			{
+				"buffer_size": 3397,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "generated/app/js/docdata.js",
+			"settings":
+			{
+				"buffer_size": 6396,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Aeyos/Desktop/Projects/Adoc",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/__pycache__",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated/app",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated/app/js",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated/app/js/controllers"
+	],
+	"file_history":
+	[
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/adoc_docgen.py",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated/app/js/docdata.js",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated/app/js/js_extension.js",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/gulpfile.js",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated/apt.sublime-project",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated/app/js/controllers/core.js",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated/app/css/tables.css",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated/app/html/home.html",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated/index.html",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated/app/js/controllers/home.js",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/test.html",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated/app/js/services/restApi.js",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated/app/html/footer.html",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated/app/sass/footer.scss",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated/app/sass/header.scss",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/adoc.py",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/adoc_javascript_parser.py",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/adoc_angular_parser.py",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/generated/package.json",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/js/directives/svgObject.js",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/js/js_extension.js",
+		"/C/Users/Aeyos/Desktop/Projects/Adoc/package.json",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/adoc/adoc.py",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/jsdoc-toolkit/README.txt",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/adoc.css",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/adoc.py",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/testfile.html",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/README.md",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/package.json",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/sass/header.scss",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/html/home.html",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/html/header.html",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/index.html",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/css/header.css",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/gulpfile.js",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/css/sass.css",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/sass/placeholder.scss",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/img/aeyos_logo.svg",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/css/svg.css",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/sass/test.scss",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/sass/test2.scss",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/css/sass.min.scss",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/css/all.css",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/css/test.css",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/css/home.css",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/js/directives/templates/svgObject.html",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/js/main.js",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/js/directives/directives.js",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/js/controllers/home.js",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/js/controllers/core.js",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/img",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/app/css/index.css",
+		"/C/Users/Aeyos/Desktop/Projects/AngularPristineTemplate/.gitignore",
+		"/C/Users/Aeyos/Desktop/Projects/Aeyos.com/README.md",
+		"/C/Users/Aeyos/Desktop/Projects/Aeyos.com/.gitignore",
+		"/C/Users/Aeyos/Desktop/Projects/Aeyos.com/app/js/main.js",
+		"/C/Users/Aeyos/Desktop/Projects/Aeyos.com/app/js/controllers/core.js",
+		"/C/Users/Aeyos/Desktop/Projects/Aeyos.com/index.html",
+		"/C/Users/Aeyos/Desktop/Projects/Aeyos.com/app/js/controllers/index.js",
+		"/C/Users/Aeyos/Desktop/Projects/Aeyos.com/app/html/index.html",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/html/admin.html",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/js/controllers/admin.js",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/js/plugins/localstorage.js",
+		"/C/Users/Aeyos/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/css/buttons.css",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/html/header.html",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/css/inputs.css",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/index.html",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/css/globals.css",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/css/tables.css",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/js/main.js",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/js/controllers/core.js",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/js/plugins/localdb.js",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/js/plugins/localdb.js.bk2",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/js/controllers/tags.js",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/js/controllers/index.js",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/html/index.html",
+		"/C/Users/Aeyos/Desktop/a.html",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/js/plugins/localdb.js.bk",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/css/index.css",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/js/js_extension.js",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/html/tags.html",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/js/controllers/main.js",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/js/controllers/routes.js",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/gulpfile.js",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/app/gulpfile.js",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/project/index.html",
+		"/C/Users/Aeyos/Desktop/Projects/ThingsDB/bower_components/bootstrap/dist/css/bootstrap.css",
+		"/C/Users/Aeyos/Desktop/Stuff/RpgTd/config/monsters.json",
+		"/C/Users/Aeyos/Desktop/Stuff/RpgTd/config/windows.json",
+		"/C/Users/Aeyos/Desktop/Stuff/RpgTd/kengine/main.js",
+		"/C/Users/Aeyos/Desktop/Stuff/RpgTd/game.js",
+		"/C/Users/Aeyos/Desktop/Stuff/RpgTd/index.html",
+		"/C/Users/Aeyos/Desktop/a.py",
+		"/C/Users/Aeyos/Desktop/a.bat",
+		"/C/Users/Aeyos/AndroidStudioProjects/MyApplication4/app/src/main/java/com/example/aeyos/myapplication/borderdetect/Detector.java",
+		"/C/Users/Aeyos/AppData/Roaming/SpaceEngineers/Mods/Tungsten 10x Jetpack/Data/Characters.sbc",
+		"/C/Users/Aeyos/Desktop/DownloadSVN.exe",
+		"/C/Windows/System32/cmd.exe",
+		"/C/Jogos/Steam/SteamApps/common/SpaceEngineers/Content/Data/Characters.sbc",
+		"/C/Users/Aeyos/Desktop/Characters.sbc",
+		"/C/Users/Aeyos/AppData/Local/Temp/7zEEB93.tmp/Characters.sbc",
+		"/C/Users/Aeyos/Desktop/Stuff/RpgTd/config/levels.json",
+		"/C/Jogos/Steam/SteamApps/common/SpaceEngineers/Content/Data/CubeBlocks.sbc",
+		"/C/Jogos/Steam/SteamApps/common/SpaceEngineers/Content/CubeBlocks.sbc",
+		"/C/Users/Aeyos/Desktop/MainActivity.java",
+		"/C/Users/Aeyos/AppData/Local/Temp/7zECFA5.tmp/MainActivity.java",
+		"/C/Users/Aeyos/Documents/my games/Fallout4/Fallout4Prefs.ini",
+		"/C/Users/Aeyos/Documents/my games/Fallout4/Fallout4.ini",
+		"/C/Users/Aeyos/AppData/Local/Temp/7zEC641.tmp/MainActivity.java",
+		"/C/Jogos/Steam/SteamApps/common/Fallout 4/Data/Interface/ContainerMenu.swf",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/sign.bat",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/org.tepeshakcode.diablo3/smali/org/tepeshakcode/diablo3/diablo3lw.smali",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/org.tepeshakcode.diablo3/smali/org/tepeshakcode/diablo3/R$style.smali",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/org.tepeshakcode.diablo3/smali/org/tepeshakcode/diablo3/R$styleable.smali",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/org.tepeshakcode.diablo3/smali/org/tepeshakcode/diablo3/R$xml.smali",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/org.tepeshakcode.diablo3/smali/org/tepeshakcode/diablo3/R.smali",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/org.tepeshakcode.diablo3/smali/org/tepeshakcode/diablo3/Rate.smali",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/org.tepeshakcode.diablo3/smali/org/tepeshakcode/diablo3/SeekBarDialogPreference.smali",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/org.tepeshakcode.diablo3/smali/org/tepeshakcode/diablo3/Select.smali",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/org.tepeshakcode.diablo3/smali/org/tepeshakcode/diablo3/Settings.smali",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/org.tepeshakcode.diablo3/smali/org/tepeshakcode/diablo3/About.smali",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/org.tepeshakcode.diablo3/smali/org/tepeshakcode/diablo3/BuildConfig.smali",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/org.tepeshakcode.diablo3/smali/org/tepeshakcode/diablo3/Constantes.smali",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/org.tepeshakcode.diablo3/smali/org/tepeshakcode/diablo3/diablo3lw$1.smali",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/org.tepeshakcode.diablo3/smali/org/tepeshakcode/diablo3/diablo3lw$2.smali",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/org.tepeshakcode.diablo3/smali/org/tepeshakcode/diablo3/R$array.smali",
+		"/C/Users/Aeyos/Desktop/Stuff/APKTool/org.tepeshakcode.diablo3/smali/org/tepeshakcode/diablo3/R$attr.smali"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"desc.function",
+			",",
+			"params",
+			"__adoc_pages",
+			".capita",
+			"params",
+			"funcMode",
+			"function",
+			"desc.funcs",
+			" n",
+			"name",
+			"prop_name",
+			"li",
+			"p",
+			"span",
+			"window.__adoc_modules",
+			"		",
+			"\\t",
+			"50",
+			"8",
+			"16",
+			"\n  ',			",
+			"module",
+			"\\n",
+			"'",
+			";",
+			"if(match):",
+			"file",
+			";",
+			"function",
+			"fns",
+			"fn",
+			"functions",
+			"html",
+			"<>",
+			"shell",
+			"gulp",
+			"Module ",
+			"<b>'",
+			"h1",
+			" : ",
+			"if(",
+			"1",
+			"0",
+			" \n",
+			" ",
+			": ",
+			"0",
+			"\n",
+			"_",
+			"_param",
+			".lower",
+			"math",
+			"1",
+			"_example",
+			"html",
+			"!",
+			"%s",
+			",",
+			" = ",
+			"_",
+			"\n",
+			"@",
+			"class",
+			"Function",
+			"self.",
+			"')",
+			"if",
+			"@",
+			"@class",
+			"_",
+			",",
+			"@",
+			"self",
+			", ",
+			"example",
+			", ",
+			",",
+			"class",
+			", ",
+			"added",
+			"eee",
+			"32",
+			"f00",
+			", 'sass:watch'",
+			"./",
+			"./sass",
+			"fff",
+			"f00",
+			"scope",
+			"route",
+			"'",
+			"index",
+			"---------------- */",
+			" */",
+			"index",
+			"Index",
+			"index",
+			"\n```\n",
+			"```\n",
+			" `\n",
+			"` ",
+			"| ",
+			" ",
+			": ",
+			"__",
+			"Author__",
+			">__",
+			">#####",
+			" : ",
+			"\n",
+			"* ",
+			"'",
+			"bower",
+			"localstorage",
+			"tableList",
+			"<!",
+			"fields",
+			"colspan=\"3\"",
+			"localstorage.getTableList(function (result) {\n			$scope.tables = result;\n		});",
+			"2",
+			"colspan=\"2\"",
+			"data",
+			"size",
+			"h2",
+			"div",
+			"tr",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"	",
+			"\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "generated/app/js/controllers/core.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1677,
+								1677
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/JavaScript Ultimate/JavaScript (DOM).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 635.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "generated/app/js/docdata.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5626,
+								5626
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/JavaScript Ultimate/JavaScript (DOM).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2953.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "adoc.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Aeyos\\Desktop\\Projects\\AngularPristineTemplate\\apt.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

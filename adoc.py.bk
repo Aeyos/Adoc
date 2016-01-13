@@ -1,0 +1,111 @@
+import os
+import fnmatch
+import re
+
+class Function:
+	def __init__ (self):
+		self._class = 0
+		self._name = 0
+		self._description = 0
+		self._params = []
+		self._return = 0
+		self._example = 0
+		self._type = 0
+	def printObj (self):
+		if(not self.valid()):
+			return
+		print('''
+	Class : {}
+	Name : {}
+	Description : {}
+	Params : {}
+	Return : {}
+	Example : {}
+	Type : {}
+		'''.format(self._class, self._name, self._description, self._params, self._return, self._example, self._type))
+	def valid (self):
+		if(not self._class):
+			return False
+		else:
+			return True
+
+path = '../app/'
+pattern = '.*(\/\*\*|@class|@name|@description|@param|@return|@example|@type)\s*(.*)'
+pattern_type = '.*{(.*)}.*'
+functions = []
+
+files = [os.path.join(dirpath, f)
+	for dirpath, dirnames, files in os.walk(path)
+	for f in fnmatch.filter(files, '*.js')]
+
+
+for fileName in files:
+	file = open(fileName, 'r')
+	lines = file.readlines()
+	for line in lines:
+		match = re.match(pattern, line)
+		if(match):
+			match = match.groups();
+			if(match[0] == '/**'):
+				try:
+					if(fn.valid()):
+						functions.append(fn)
+				except:
+					pass
+				fn = Function()
+			elif(match[0] == '@class'):
+				fn._class = match[1]
+			elif(match[0] == '@name'):
+				fn._name = match[1]
+			elif(match[0] == '@description'):
+				fn._description = match[1]
+			elif(match[0] == '@param'):
+				fn._params.append(match[1])
+			elif(match[0] == '@return'):
+				fn._return = match[1]
+			elif(match[0] == '@example'):
+				fn._example = match[1]
+			elif(match[0] == '@type'):
+				fn._type = match[1]
+	try:
+		if(fn.valid()):
+			functions.append(fn)
+	except:
+		pass
+	fn = None
+	file.close()
+
+file = open('adoc.html', 'w')
+file.write('''
+<!DOCTYPE html>
+<html>
+	<link rel="stylesheet" href="adoc.css">
+<head>
+</head>
+<body>
+<div class="content">
+''')
+for fn in functions:
+	_type = re.match(pattern_type, fn._type).groups()[0]
+	if(_type.lower() == 'function'):
+		file.write('''
+<h1><a href="{}">{}</a>.{}</h1>
+<span class="description">{}</span>
+<span class="{}">{}</span><span class="name">{}</span>(
+'''.format('???' if not fn._class else fn._class, '???' if not fn._class else fn._class, fn._name ,fn._description, _type.lower(), _type.capitalize(), fn._name))
+		i=0
+		for param in fn._params:
+			param = param.split(' ')
+			__type = re.match(pattern_type, param[0]).groups()[0]
+			__name = param[1]
+			del param[0], param[0]
+			__desc = ' '.join(param)
+			file.write('<span class="param">{}</span> [<span class="type">{}</span>]'.format(__name, __type))
+			i+=1;
+			file.write('</span>' if i == len(fn._params) else ', </span>')
+		file.write(' )');
+file.write('''
+</div>
+</body>
+</html>''')
+file.close()

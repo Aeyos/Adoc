@@ -1,0 +1,27 @@
+<div>
+	<div class="container">
+		<h1><i class="fa fa-home"></i>&nbsp&nbsp{{title}}</h1>
+		<hr/>
+		<table style="width:100%">
+			<thead>
+				<tr>
+					<th>Module</th>
+					<th>Dependencies</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr ng-repeat="module in modules">
+					<td>
+						{{module.name}}
+					</td>
+					<td>
+						<span ng-repeat="dependency in module.dependencies">
+							<b>{{dependency}}</b><span ng-if="!$last"> , </span>
+						</span>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<hr/>
+	</div>
+</div>

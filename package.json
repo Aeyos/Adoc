@@ -1,0 +1,16 @@
+{
+  "name": "Adoc",
+  "version": "1.0.0",
+  "description": "Adoc is a AngularJS / Javascript API documenting sw",
+  "main": "adoc.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinícius Marcelo Negrão (Aeyos)",
+  "license": "CC3",
+  "devDependencies": {
+    "bower": "^1.7.1",
+    "gulp": "^3.9.0",
+    "gulp-server-livereload": "^1.5.4",
+  }
+}
